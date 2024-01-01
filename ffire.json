@@ -52,8 +52,8 @@
 
             "orientation": "landscape",
 
-            "game_name": "Parkour 3D",
-            "game_cover": "https://gamingbeasts.com/wp-content/uploads/2022/02/Parkour-Simulator.jpg",
+            "game_name": "Multi Games",
+            "game_cover": "https://raw.githubusercontent.com/Bennn03/version2/main/couv.png",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
 
@@ -68,9 +68,9 @@
             
             "Slide_count" : "2",
             
-            "active_slider" : true ;
+            "active_slider" : false ;
             
-             "first_Slide_firstimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+             "first_Slide_firstimage" : "https://raw.githubusercontent.com/Bennn03/version2/main/couv.png",
             "first_Slide_secondtimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" ,
              "first_Slide_threeimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
             
@@ -227,7 +227,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
@@ -426,116 +426,36 @@
     
     "chaptera" : [
         {
-            "title" : "Navigate a massive play area in your trusty old engine.",
-            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/extras/Travel.gif"
+            "title" : "Recover EP when owner stand still.",
+            "img" : "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20236/5add0ec087395e9b3c344fdb8bf7d11a.png"
         }
     ],
 
     "chapterb" : [
-        {
-            "title" : "Walkthrough - Main Missions",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a5/20221208014722_1.jpg?width=1024"
-        },
-        {
-            "title" : "Tutorial",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/5/53/20221206194340_1.jpg?width=1024"
-        },
-        {
-            "title" : "South Mine Spelunking",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/33/20221206212146_1.jpg?width=1024"
-        },
-        {
-            "title" : "North Mine Mystery",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a5/20221208014722_1.jpg?width=1024"
-        },
-        {
-            "title" : "A Mine, or A Tomb?",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/9/9f/20221208032312_1.jpg?width=1024"
-        },
-        {
-            "title" : "Destruction Project",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/ac/20221208025711_1.jpg?width=1024"
-        },
-        {
-            "title" : "Finish It",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/7/7d/20221208151755_1.jpg?width=1024"
-        },
-        {
-            "title" : "Ending",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/5/53/20221208151823_1.jpg?width=1024"
+       {
+            "title" : "Loyality is virtue.",
+            "img" : "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20229/e72cf970e6184e4d3841258df9b29ae1.png"
         }
     ],
 
     "chapterc" : [
-        {
-            "title" : "Weapon Missions",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/e/ec/20221208150853_1.jpg?width=1024"
-        },
-        {
-            "title" : "Bug Spray Blaze: How to Get The Flamethrower",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a3/20221206214323_1.jpg?width=1024"
-        },
-        {
-            "title" : "Mob Camp Infiltration: How to Get The Gatling Gun",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/31/20221208024422_1.jpg?width=1024"
-        },
-        {
-            "title" : "Bunker Break-In: How to Get The Rocket Launcher",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/aa/20221207014156_1.jpg?width=1024"
+       {
+            "title" : "I'm not just an owl, I am a Hoot!",
+            "img" : "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/6dd5ad5c2ad552ceabbe786abb0fc26a.png"
         }
     ],
 
     "chapterd" : [
-        {
-            "title" : "Side Missions",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/3d/20221207012413_1.jpg?width=1024"
-        },
-        {
-            "title" : "Fetch Scrap From Candice",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/1/10/20221206203224_1.jpg?width=1024"
-        },
-        {
-            "title" : "Lock Pick O'Clock",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/f/f8/20221206205428_1.jpg?width=1024"
-        },
-        {
-            "title" : "Swamp Swimmer",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/0/07/20221206214547_1.jpg?width=1024"
-        },
-        {
-            "title" : "Loot Tony's Barn",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/d/d7/20221206220930_1.jpg?width=1024"
-        },
-        {
-            "title" : "The Pickles Mission",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/e/e8/20221206234714_1.jpg?width=1024"
-        },
-        {
-            "title" : "Canyon Caper",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/b/bf/20221207000819_1.jpg?width=1024"
-        },
-        {
-            "title" : "Light in The Dark",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/8/89/20221208020646_1.jpg?width=1024"
-        },
-        {
-            "title" : "Journal Return",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/0/04/20221207010924_1.jpg?width=1024"
-        },
-        {
-            "title" : "Boulder Field Pages",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/3d/20221207012413_1.jpg?width=1024"
-        },
-        {
-            "title" : "Cloud Climber",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/33/20221208034236_1.jpg?width=1024"
+      {
+            "title" : "Dare to challange me for a Swim?",
+            "img" : "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/2d0fc806e92bee780bdea0fcc4bfbe96.png"
         }
     ],
 
     "chaptere" : [
         {
-            "title" : "Paint Can Guide: How to Find Every Paint Can For Your Train",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/1/1e/20221213010317_1.jpg?width=1024"
+            "title" : "I heard that you think I'm adorable",
+            "img" : "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/691078afd4a0ef4b6cf01fd25dc30c5c.png"
         }
     ]
 }
